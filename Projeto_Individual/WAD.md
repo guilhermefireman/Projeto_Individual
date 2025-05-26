@@ -77,7 +77,7 @@ O banco contém três tabelas principais:
 
 ---
 
-## ⚙️ Tecnologias Usadas
+## Tecnologias Usadas
 
 - Node.js
 - Express.js
